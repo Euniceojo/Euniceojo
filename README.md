@@ -1,10 +1,3 @@
-# Assignments
- Github Assignment
-
-
-Week 5 Github Assignment
-
-
 
 ## 🚀 About Me
 I'm a Clinical Pharmacist and a frontend Developer...
@@ -30,7 +23,7 @@ A clinical Pharmacist passionate about improving the health-care domain to meet 
 
 🤔 I'm looking for help with graphics design...
 
-💬 Ask me abo Pharmaceutical care...
+💬 Ask me about Pharmaceutical care...
 
 📫 How to reach me via my gmail- euniceolutola@gmail.com...
 
